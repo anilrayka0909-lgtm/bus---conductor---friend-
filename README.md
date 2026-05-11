@@ -132,3 +132,4 @@
 </div>
 </body>
 </html>
+input type="text" size="50">
